@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow specific files
+!*.cs       # Include all C# source files
+!*.csproj   # Include C# project files
+!*.sln      # Include solution files
+!.gitignore # Include the .gitignore itself
+
+# Ignore build artifacts
+bin/
+obj/
