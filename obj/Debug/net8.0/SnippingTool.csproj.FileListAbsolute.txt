@@ -1,4 +1,0 @@
-G:\Documents\10. Projects\C#\SnippingTool\obj\Debug\net8.0\SnippingTool.GeneratedMSBuildEditorConfig.editorconfig
-G:\Documents\10. Projects\C#\SnippingTool\obj\Debug\net8.0\SnippingTool.AssemblyInfoInputs.cache
-G:\Documents\10. Projects\C#\SnippingTool\obj\Debug\net8.0\SnippingTool.AssemblyInfo.cs
-G:\Documents\10. Projects\C#\SnippingTool\obj\Debug\net8.0\SnippingTool.csproj.CoreCompileInputs.cache
